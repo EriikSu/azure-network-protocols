@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 5: From within Windows 10 VM, "SSH into" the Ubuntu VM (via it's private IP address), and observe traffic then exit SSH.
 - Step 6: In Windows 10 VM, attempt to issue a new IP address from the command line (ipconfig /renew) and observe DHCP traffic.
 - Step 7: In Windows 10 VM, either powershell or command line we will use nslookup command to see what www.google.com is and observe DNS traffic in WireShark.
-- Step 8: Observe ongoing RDP traffic in Wireshark
+- Step 8: Observe ongoing RDP traffic in Wireshark.
 
 <h2>Actions and Observations</h2>
 <p></p>
