@@ -35,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
   <h3>Step 1: Create Resource Groups and Virtual Machines</h3>
   One of the requierement for this lab is to create our Resource Group and two (2) VMs on Azure. One machine will be a Windows 10 (VM1) and the other will be a Linux machine (VM2).
 <p>
-<img src="https://imgur.com/a/RSCEVcr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/RSCEVcr" height="80%" width="80%"/>
 </p>
 <br />
 
