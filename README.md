@@ -44,7 +44,7 @@ Open WireShark and filter for ICMP Traffic only. This traffic will display the r
 </p>
 <p>
 
-2. Let us observe a different kind of Traffic, SSH. Filter for SSH traffic only in WireShark. From the Windows 10 VM, "SHH into" the Ubuntu VM. This can be done by using the command, "SSH username@ipaddress" in my case, SSH labuser@10.0.04 , then we will see that WireShark immediately sees the SSH packets between the two VM. 
+2. Let us observe a different kind of Traffic, SSH. Filter for SSH traffic only in WireShark. From the Windows 10 VM, "SHH into" the Ubuntu VM. This can be done by using the command, "SSH username@ipaddress" in my case, SSH labuser@10.0.05 , then we will see that WireShark immediately sees the SSH packets between the two VM. 
 
 <p>
 <img src="https://i.imgur.com/eh26pQ8.png" height="100%" width="100%"/>
