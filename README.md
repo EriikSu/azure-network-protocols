@@ -33,7 +33,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 1. For this demonstrations we will need to create two virtual machines using Microsoft Azure. One machine will use Ubuntu Linux, and the other will use Windows 10 as its operating system. Both will have should have a minimum of a two-core virtual cpu, personally I went with four-cores. Once both is set-up, go ahead and login to the Windows 10 version. Download and Install WireShark.
 
 <p>
-<img src="[(https://i.imgur.com/oa0JPis.png)](https://i.imgur.com/oa0JPis.png)" height="100%" width="100%"/>
+<img src="https://imgur.com/oa0JPis" height="100%" width="100%"/>
 </p>
 <p>
 
